@@ -1,2 +1,4 @@
 name: Massimo Bedini
 markdown: kramdown
+
+theme: jekyll-theme-hacker

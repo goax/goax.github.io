@@ -10,7 +10,7 @@ categories: tools
 <script type="text/javascript" src="../js/manifesto.js"></script>
 
 <center>
-	Inserisci l'url dell'articolo: 
+	Inserisci l'url dell'articolo: <br>
 <form id="frm1">
   <input type="text" name="fname" value="URL COMPLETO"><br>
 </form>

@@ -19,13 +19,25 @@ input[type=text] {
     border-radius: 4px;
     background-color: #093750;
 }
+.button {
+    background-color: #093750; 
+    border: 2px solid red;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 20px;
+}
 </style>
 
 <center>
 	Inserisci l'url all'articolo de Il Manifesto che vuoi scaricare: <br>
-	(Es.: https://ilmanifesto.it/politiche-incostituzionali-class-action-contro-la-casa-bianca/)<br><br>
+	<br>
 <form id="frm1">
-  <input type="text" name="fname" value="URL COMPLETO"><br>
+  <input type="text" name="fname" value="(Es.: https://ilmanifesto.it/politiche-incostituzionali-class-action-contro-la-casa-bianca/)"><br>
 </form>
 <br>
 <button onclick="myFunction()">Ottieni PDF</button>
@@ -44,6 +56,6 @@ function myFunction() {
     link2pdf(text);
 }
 </script>
-
+<br><br>
   
 [Massimo](https://twitter.com/massimobedini)

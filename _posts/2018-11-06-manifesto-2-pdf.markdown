@@ -9,12 +9,23 @@ categories: tools
 <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="../js/manifesto.js"></script>
 
+<style> 
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+</style>
+
 <center>
-	Inserisci l'url dell'articolo: <br>
+	Inserisci l'url all'articolo de Il Manifesto che vuoi scaricare: <br><br>
 <form id="frm1">
   <input type="text" name="fname" value="URL COMPLETO"><br>
 </form>
-
+<br>
 <button onclick="myFunction()">Ottieni PDF</button>
 </center>
 

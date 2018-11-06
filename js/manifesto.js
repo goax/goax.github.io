@@ -26,7 +26,8 @@ function link2pdf(url){
                 result = 'https://ilmanifesto.it/read-offline/' + target_code + '/' + target + '/pdf/';
             }
         }
-        document.getElementById("link").innerHTML = '<a href="'+ result + '">' + result + '</a>';
+        output = 'Ecco il link da scaricare: <br> <a href="'+ result + '">' + result + '</a>';
+        document.getElementById("link").innerHTML = output;
       }
     });
 

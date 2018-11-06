@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "il Manifesto 2 pdf"
+title:  "ilManifesto2pdf"
 date:   06-10-2018
 categories: tools
 ---

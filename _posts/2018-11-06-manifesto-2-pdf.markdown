@@ -18,6 +18,7 @@ input[type=text] {
     border: 2px solid red;
     border-radius: 4px;
     background-color: #093750;
+    text-align: center;
 }
 .button {
     background-color: #093750; 

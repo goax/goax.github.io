@@ -6,6 +6,8 @@ categories: tools
 ---
 <br />
 
+<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="js/manifesto.js"></script>
 <form id="frm1">
   Inserisci l'url dell'articolo: <input type="text" name="fname" value="URL COMPLETO"><br>
 </form>

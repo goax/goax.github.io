@@ -19,6 +19,7 @@ input[type=text] {
     border-radius: 4px;
     background-color: #093750;
     text-align: center;
+    font-style: italic;
 }
 .button {
     background-color: #093750; 

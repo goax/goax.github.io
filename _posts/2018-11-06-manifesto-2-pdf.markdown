@@ -8,11 +8,14 @@ categories: tools
 
 <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="../js/manifesto.js"></script>
+
+<center>
 <form id="frm1">
   Inserisci l'url dell'articolo: <input type="text" name="fname" value="URL COMPLETO"><br>
 </form>
 
 <button onclick="myFunction()">Ottieni PDF</button>
+</center>
 
 <p id="link"></p>
 
@@ -43,8 +46,7 @@ Github: [https://github.com/massimobedini](https://github.com/massimobedini)
 Ciao a tutti,  
 Blabbiti: 
 *'Quote.'*  
-  
-![image]({{ site.url }}/public/images/slae/assignment7/image.png)  
+ 
   
 Canic [link](http://www.tayloredge.com/reference/Mathematics/TEA-XTEA.pdf).  
 

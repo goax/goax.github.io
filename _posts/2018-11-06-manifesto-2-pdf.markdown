@@ -40,7 +40,7 @@ input[type=text] {
   <input type="text" name="fname" value="(Es.: https://ilmanifesto.it/politiche-incostituzionali-class-action-contro-la-casa-bianca/)"><br>
 </form>
 <br>
-<button onclick="myFunction()">Ottieni PDF</button>
+<button class="button" onclick="myFunction()">Ottieni PDF</button>
 </center>
 
 <p id="link"></p>
